@@ -1,0 +1,13 @@
+canvas{
+    border:5px solid blue;
+    border-radius:20px;
+    box-shadow:5px 5px 10px red;
+    background-color:lightpink;
+    }
+
+body{
+    margin-left:50;
+    background-image: url("2YPo9H.jpg");
+    background-position: center;
+    background-size: cover;
+}
